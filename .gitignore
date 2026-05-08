@@ -1,0 +1,35 @@
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+x64/
+Debug/
+Release/
+[Bb]in/
+[Oo]bj/
+*.ipch
+*.tlog
+*.lastbuildstate
+*.ilk
+*.pdb
+*.idb
+*.obj
+*.pch
+*.res
+*.log
+
+# Project-local generated files
+Msg_Inject/x64/
+Msg_Inject/imgui.ini
+imgui-master.zip
+GhostlyHollowingInject/
+
+# OS files
+Thumbs.db
+Desktop.ini
